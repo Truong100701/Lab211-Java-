@@ -1,0 +1,6 @@
+TryCloseFile,TryCloseFile,19,11000.0,up,2023-07-12
+TryCloseFile,TryCloseFile,19,10000.0,down,2023-07-12
+TryAgainCloseFile,Tru�ng,19,920.0,up,2023-07-12
+TryAgainCloseFile,Tru�ng,19,900.0,down,2023-07-12
+TryAgainCloseFile,Tru�ng,19,1900.0,up,2023-07-12
+TryAgainCloseFile,Tru�ng,19,0.0,,2023-07-12
